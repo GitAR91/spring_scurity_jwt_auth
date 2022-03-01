@@ -24,12 +24,12 @@ logging:
     liquibase: INFO
 
 
-aws:
-  access:
-    key:
-      id: AKIAZGO7MZIDIMSDAOUE
-      secret: 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
-  region: us-east-2
-  s3:
-    audio:
-      bucket: spirit-bucket
+#aws:
+#  access:
+#    key:
+#      id:
+#      secret:
+#  region: us-east-2
+#  s3:
+#    audio:
+#      bucket: spirit-bucket
